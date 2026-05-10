@@ -18,7 +18,7 @@ Created by: danzz³³⁰1
 - 🔧 **Admin Panel** - Manage users, change roles, delete users
 
 <p align="center">
-  <img src="" alt="DanzzAnon Preview" width="600">
+  <img src="https://github.com/user-attachments/assets/8ab91cc6-c21a-42e1-9b9c-98860da3af99" alt="DanzzAnon Preview" width="600">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python">
