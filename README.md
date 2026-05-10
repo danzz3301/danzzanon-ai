@@ -5,8 +5,53 @@
 Created by: danzz³³⁰1
 
 ---
+##file structure
+danzzanon-al/
+├── danzzai.py # Main program
+├── requirements.txt # Dependencies
+├── LICENSE # License file
+├── README.md # Documentation
+└── danzz_users.db # Database (auto generated)
+text
 
-## ✨ Features
+## 📋 Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Commands](#commands)
+- [Screenshots](#screenshots)
+- [License](#license)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-5.0-blue">
+  <img src="https://img.shields.io/badge/Python-3.6%2B-green">
+  <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red">
+</p>
+
+<p align="center">
+  <b>AI Assistant with Login System + Hacking Tools</b><br>
+  Created by <b>danzz³³⁰1</b>
+</p>
+
+---
+
+📋 Commands
+Command	Description
+/scan <ip>	Scan open ports
+/hash <hash>	Crack MD5/SHA1/SHA256
+/revshell <ip> <port>	Generate reverse shell
+/dork <keyword>	Google dorks
+/online	Show online users
+/admin	Admin panel
+/clear	Clear screen
+/logout	Logout
+
+##📸 Preview
+text
+
+┌─[YOU] ── > /scan 127.0.0.1
+[✓] Scanning 127.0.0.1
+└─> Open ports: 22, 80, 443
+
 
 ### 🔐 Authentication
 - ✅ Register & Login
@@ -63,4 +108,4 @@ Created by: danzz³³⁰1
 ```bash
 git clone https://github.com/danzz3301/danzzanon-ai.git
 cd dist
-python3 danz
+python3 danzzai.py
