@@ -23,3 +23,7 @@ Created by: danzz³³⁰1
 git clone https://github.com/danzz3301/danzzanon-ai.git
 cd dist
 python3 danzzai.py
+
+
+
+<img width="1080" height="656" alt="Image" src="https://github.com/user-attachments/assets/8ab91cc6-c21a-42e1-9b9c-98860da3af99" />
