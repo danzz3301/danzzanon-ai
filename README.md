@@ -64,6 +64,21 @@ Created by: danzz³³⁰1
 - Typing effect
 - Clear screen command
 
+#### 📱 Find me on
+
+<div align="center">
+  <a href="https://tiktok.com/@d_3301">
+    <img src="https://img.shields.io/badge/TikTok-@d_3301-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000&color=ff0040&link=https://tiktok.com/@d_3301" />
+  </a>
+  <a href="https://github.com/danzz3301">
+    <img src="https://img.shields.io/badge/GitHub-danzz3301-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+
+
+### ALL OS
+
 ---
 
 ## Installation
