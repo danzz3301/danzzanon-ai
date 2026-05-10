@@ -1,22 +1,53 @@
 # DANZZANON AI
 
-**Complete AI Assistant with Login/Register System & User Management**
+*AI Assistant *
 
 Created by: danzz³³⁰1
 
-## Features
+---
 
-- 🤖 **AI Chat Assistant** - Bisa jawab pertanyaan hacking, security, programming
-- 🔐 **Login/Register System** - User authentication with SQLite
-- 👑 **Role System** - user, admin, developer
-- 📡 **Online User Tracking** - Lihat siapa yang sedang online
-- 🛠️ **Built-in Hacking Tools**:
-  - Port scanner (`/scan`)
-  - Hash cracker (`/hash`)
-  - Reverse shell generator (`/revshell`)
-  - Google dorks generator (`/dork`)
-- 🔧 **Admin Panel** - Manage users, change roles, delete users
+## ✨ Features
 
+### 🔐 Authentication
+- ✅ Register & Login
+- ✅ Session management (24 hour expiry)
+- ✅ 3 Role levels (user, admin, developer)
+- ✅ Online user tracking
+- ✅ PBKDF2 password hashing
+
+### 🛠️ Hacking Tools
+| Command | Description |
+|---------|-------------|
+| /scan <ip> | Port scanner (15 common ports) |
+| /hash <hash> | MD5/SHA1/SHA256 hash cracker |
+| /revshell <ip> <port> | Generate reverse shell payloads |
+| /dork <keyword> | Google dorks generator |
+
+### 👑 Admin Panel
+- List all users
+- Delete users
+- Change user roles
+- Change own password
+- View online users
+
+### 🤖 AI Chat Assistant
+- Hacking & Cybersecurity focused
+- No sensor for technical questions
+- Context memory (last 10 messages)
+- Typing animation
+
+### 📊 Database
+- SQLite (no server setup needed)
+- Users table with role & online status
+- Sessions table for active logins
+
+### 🎨 UI
+- Colorful terminal output
+- Loading spinner animation
+- Typing effect
+- Clear screen command
+
+---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8ab91cc6-c21a-42e1-9b9c-98860da3af99" alt="DanzzAnon Preview" width="600">
 </p>
