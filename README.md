@@ -24,7 +24,7 @@ Created by: danzz³³⁰1
 </p>
 
 <p align="center">
-  <b>AI Assistant with Login System + Hacking Tools</b><br>
+  <b>AI Assistant </b><br>
   Created by <b>danzz³³⁰1</b>
 </p>
 
