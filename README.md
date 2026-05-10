@@ -58,11 +58,6 @@ Created by: danzz³³⁰1
 - Context memory (last 10 messages)
 - Typing animation
 
-### 📊 Database
-- SQLite (no server setup needed)
-- Users table with role & online status
-- Sessions table for active logins
-
 ### 🎨 UI
 - Colorful terminal output
 - Loading spinner animation
@@ -75,5 +70,6 @@ Created by: danzz³³⁰1
 
 ```bash
 git clone https://github.com/danzz3301/danzzanon-ai.git
+cd danzzanon-ai
 cd dist
 python3 danzzai.py
