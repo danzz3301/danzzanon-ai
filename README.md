@@ -21,5 +21,5 @@ Created by: danzz³³⁰1
 
 ```bash
 git clone https://github.com/danzz3301/danzzanon-ai.git
-cd danzzanon-ai
+cd dist
 python3 danzzai.py
