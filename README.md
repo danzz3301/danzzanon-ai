@@ -25,5 +25,6 @@ cd dist
 python3 danzzai.py
 
 
-
-<img width="1080" height="656" alt="Image" src="https://github.com/user-attachments/assets/8ab91cc6-c21a-42e1-9b9c-98860da3af99" />
+##gambar
+<p align="center">
+   <img width="1080" height="656" alt="Image" src="https://github.com/user-attachments/assets/8ab91cc6-c21a-42e1-9b9c-98860da3af99" />
