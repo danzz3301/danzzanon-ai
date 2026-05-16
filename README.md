@@ -23,6 +23,11 @@ Created by: danzz³³⁰1
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red">
 </p>
 
+<a href="https://discord.gg/LINK_UNDANGAN_ANDA">
+  <img src="https://img.shields.io/badge/Discord-Danzz%20Anon-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
+</a>
+
+
 <p align="center">
   <b>AI Assistant </b><br>
   Created by <b>danzz³³⁰1</b>
